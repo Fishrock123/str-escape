@@ -17,4 +17,4 @@ cargo install --path .
 some-cli-tool | str-escape | some-other-cli-tool
 ```
 
-## [License][LICENSE.md]
+## [License](LICENSE.md)
